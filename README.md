@@ -25,14 +25,14 @@ It uses Python libraries such as `yfinance`, `pandas`, and `plotly` to extract, 
 ---
 
 ## Screenshots 📸
-- **Tesla_Stock_Data.png**
-- (https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/Tesla_Stock_Data.png)
-- **Tesla_Revenue.png**
-- (https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/Tesla_Revenue.png)
-- **GameStop_Stock_Data.png**
-- (https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/GameStop_Stock_Data.png) 
-- **GameStop_Revenue.png**
-- (https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/GameStop_Revenue.png)  
+-## Tesla Stock Data
+- ![Tesla_Stock_Data](https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/Tesla_Stock_Data.png)
+- -## Tesla Revenue
+- ![Tesla_Revenue](https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/Tesla_Revenue.png)
+- -## GameStop Stock Data
+- ![GameStop_Stock_Data](https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/GameStop_Stock_Data.png)
+- -## GameStop Revenue
+- ![GameStop_Revenue](https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/GameStop_Revenue.png)  
 
 
 ---
