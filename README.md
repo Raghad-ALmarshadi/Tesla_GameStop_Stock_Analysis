@@ -50,6 +50,8 @@ It uses Python libraries such as `yfinance`, `pandas`, and `plotly` to extract, 
 📝 Project Structure
 graphql
 Copy code
+
+
 ├── data/                  # CSV dataset from Kaggle
 
 
@@ -66,6 +68,8 @@ Copy code
 
 
 📈 License
+
+
 Open-source for educational purposes / مفتوح المصدر لأغراض تعليمية
 
 ✨ Author / المؤلف: Raghad Almarshadi
