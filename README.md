@@ -17,7 +17,7 @@ It uses Python libraries such as `yfinance`, `pandas`, and `plotly` to extract, 
 ## Dashboard & Visualizations 📊
 
 ### Tesla Stock vs Revenue 🚗
-![Tesla Dashboard](https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/Tesla_Dashboard.png)
+![Tesla Dashboard](https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/ScreenShot/Tesla_Dashboard.png)
 
 ### GameStop Stock vs Revenue 🎮
 ![GameStop Dashboard](https://github.com/Raghad-ALmarshadi/Tesla_GameStop_Stock_Analysis/blob/main/GameStop_Dashboard.png)
